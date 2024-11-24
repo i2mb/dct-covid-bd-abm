@@ -1,0 +1,16 @@
+numpy~=2.1.1
+matplotlib~=3.9.2
+pandas~=2.2.2
+tabulate
+tables
+scipy~=1.14.1
+networkx~=3.3
+ternary~=0.1
+igraph~=0.11.6
+seaborn~=0.13.2
+UpSetPlot~=0.9.0
+
+PyQt5>=5.15.2
+
+pyarrow~=17.0.0
+openpyxl
